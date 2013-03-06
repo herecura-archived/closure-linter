@@ -1,6 +1,6 @@
 pkgbase = closure-linter
 	pkgdesc = A JavaScript style checker and style fixer
-	pkgver = 2.3.8
+	pkgver = 2.3.9
 	pkgrel = 1
 	url = http://code.google.com/closure
 	arch = any
@@ -8,8 +8,8 @@ pkgbase = closure-linter
 	depends = python2
 	depends = python2-gflags
 	depends = python2-distribute
-	source = http://closure-linter.googlecode.com/files/closure_linter-2.3.8.tar.gz
-	sha256sums = 40b405bb550c12e54ccf9e9b6f463c889e73ed18fc462703f59c2626446ab37f
+	source = http://closure-linter.googlecode.com/files/closure_linter-2.3.9.tar.gz
+	sha256sums = 60e0452517675dacf6f7d110b06f8afbfbb2c317b858e4b5203b8e59ccf8a238
 
 pkgname = closure-linter
 
