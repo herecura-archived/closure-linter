@@ -1,7 +1,7 @@
 pkgbase = closure-linter
 	pkgdesc = A JavaScript style checker and style fixer
 	pkgver = 2.3.13
-	pkgrel = 1
+	pkgrel = 2
 	url = http://code.google.com/closure
 	arch = any
 	license = APACHE
